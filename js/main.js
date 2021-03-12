@@ -267,8 +267,8 @@ class Bomb {
     this.x = x;
     this.y = y;
     this.r = BOMB_R;
-    // this.vy = 3;
-    this.vy = 10;
+    this.vy = 3;
+    // this.vy = 10;
     this.del = false;
   }
 
