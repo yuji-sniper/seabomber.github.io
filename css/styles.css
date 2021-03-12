@@ -1,0 +1,18 @@
+body {
+  background: rgb(184, 170, 170);
+  font-weight: bold;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+.container p {
+  margin: 2px 0 0;
+}
